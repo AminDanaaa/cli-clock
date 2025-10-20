@@ -1,7 +1,7 @@
 {
   "name": "cli-clock",
   "version": "1.0.0",
-  "description": "a simple cli clock using nodejs",
+  "description": "a simple cli clock using JS in nodejs",
   "homepage": "https://github.com/AminDanaaa/cli-clock#readme",
   "bugs": {
     "url": "https://github.com/AminDanaaa/cli-clock/issues"
