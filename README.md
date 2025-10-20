@@ -1,5 +1,5 @@
 # cli-clock
-A simple live clock in cli using nodejs
+A simple live clock in cli using JavaScript in nodejs env
 
 # Notes
 tried to make it as efficient as possible, using process.std.write() insted of console.log() to be able to only clear and replace the same line since it's more efficient than clearing the whole console every 1 second. and that helps the purpose explained in the next next paragraph.
